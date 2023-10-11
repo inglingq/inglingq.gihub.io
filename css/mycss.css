@@ -1,0 +1,22 @@
+/*标题栏高斯模糊*/
+#page-header.nav-visible #nav {
+    background: rgba(142, 158, 216,0.6);
+    backdrop-filter: blur(50px);
+}
+/*手机端毛玻璃优化*/
+#sidebar #sidebar-menus.open {
+    background: rgba(142, 158, 216,0.6);
+    backdrop-filter: blur(10px);
+}
+
+#sidebar #menu-mask {
+    background: rgba(142, 158, 216,0.6);
+}
+/* 导航栏菜单鼠标移入字体放大 */
+#nav #site-name:hover, 
+#nav .menus_item:hover, 
+#nav #search-button:hover{
+    font-size:28px;
+}
+
+
