@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/10/05/%E6%95%A3%E7%82%B9/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</loc>
+    
+    <lastmod>2023-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inglingq.gitee.io/2023/10/05/flag01/</loc>
     
     <lastmod>2023-10-05</lastmod>
     
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/10/05/flag01/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/05/test01/</loc>
     
     <lastmod>2023-10-05</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/10/05/test01/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/04/report/</loc>
     
     <lastmod>2023-10-05</lastmod>
     
@@ -29,16 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/10/04/report/</loc>
-    
-    <lastmod>2023-10-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/10/04/demo/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/04/demo/</loc>
     
     <lastmod>2023-10-04</lastmod>
     
@@ -47,9 +47,27 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/10/02/demo02/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/02/demo02/</loc>
     
     <lastmod>2023-10-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inglingq.gitee.io/categories/index.html</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inglingq.gitee.io/tags/index.html</loc>
+    
+    <lastmod>2023-10-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,16 +75,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <loc>https://inglingq.gitee.io/</loc>
+    <lastmod>2023-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <loc>https://inglingq.gitee.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2023-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -74,8 +92,8 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <loc>https://inglingq.gitee.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2023-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

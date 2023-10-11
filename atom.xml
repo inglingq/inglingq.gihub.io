@@ -3,11 +3,11 @@
   <title>ぼっち</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://inglingq.gitee.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-10-05T13:44:42.081Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://inglingq.gitee.io/"/>
+  <updated>2023-10-06T02:10:12.252Z</updated>
+  <id>https://inglingq.gitee.io/</id>
   
   <author>
     <name>inglingq</name>
@@ -18,19 +18,17 @@
   
   <entry>
     <title>散点</title>
-    <link href="http://example.com/2023/10/05/%E6%95%A3%E7%82%B9/"/>
-    <id>http://example.com/2023/10/05/%E6%95%A3%E7%82%B9/</id>
+    <link href="https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/"/>
+    <id>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</id>
     <published>2023-10-05T13:43:14.000Z</published>
-    <updated>2023-10-05T13:44:42.081Z</updated>
+    <updated>2023-10-06T02:10:12.252Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="测试一下"><a href="#测试一下" class="headerlink" title="测试一下"></a>测试一下</h2><p>###的</p><p>在上传时使用http协议失败，暂未解决 但采用ssh方式部署成功</p><h2 id="Live2D看板娘"><a href="#Live2D看板娘" class="headerlink" title="Live2D看板娘"></a>Live2D看板娘</h2><p>live2d:<br>  enable: true<br>  scriptFrom: local<br>  pluginRootPath: live2dw&#x2F;<br>  pluginJsPath: lib&#x2F;<br>  pluginModelPath: assets&#x2F;<br>  tagMode: false<br>  debug: false<br>  model:<br>    use: live2d-widget-model-z16<br>  display:<br>    position: right<br>    width: 150<br>    height: 300<br>  mobile:<br>    show: true<br>  react:<br>    opacity: 0.7</p><p>source中的post文件被移除，在更改主题时<br>blog&#x2F;source中的about被移除了</p><p><a href="https://codebyzach.github.io/pace/">https://codebyzach.github.io/pace/</a>   进度条动画网站<br>763行 进度条动画修改</p><p>&#x2F;&#x2F;background-color: $light-blue<br>1.引入外部css可修改底部等属性<br>2.在引入外部css 文件修改网站背景时，出遗留bug,在buterfly配置中需要给 641：background属性赋值</p><h2 id="一个传送点"><a href="#一个传送点" class="headerlink" title="一个传送点"></a>一个传送点</h2><p>在设置首页title打字效果描述时，需要 sub:<br>        - Even 2d otakus want to save the world<br>而不是 sub: Even 2d otakus want to save the world<br>注意 - 符号</p><p>导航栏闪烁问题尚未解决</p><p>成功！！！！<br>受不了了<br>！！！！<br>npm install –save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</p><p>10月五号晚 不小心删除配置文件，利用远古blog-demo复制粘贴复刻成功，底部栏颜色有待解决</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="测试一下"><a href="#测试一下" class="headerlink" title="测试一下"></a>测试一下</h1><h3 id="的"><a href="#的" class="headerlink" title="的"></a>的</h3><p>在上传时使用http协议失败，暂未解决 但采用ssh方式部署成功</p><h2 id="Live2D看板娘"><a href="#Live2D看板娘" class="headerlink" title="Live2D看板娘"></a>Live2D看板娘</h2><p>live2d:<br>  enable: true<br>  scriptFrom: local<br>  pluginRootPath: live2dw&#x2F;<br>  pluginJsPath: lib&#x2F;<br>  pluginModelPath: assets&#x2F;<br>  tagMode: false<br>  debug: false<br>  model:<br>    use: live2d-widget-model-z16<br>  display:<br>    position: right<br>    width: 150<br>    height: 300</p><h2 id="6"><a href="#6" class="headerlink" title="6"></a>6</h2><p>  mobile:<br>    show: true<br>  react:<br>    opacity: 0.7</p><p>source中的post文件被移除，在更改主题时<br>blog&#x2F;source中的about被移除了</p><p><a href="https://codebyzach.github.io/pace/">https://codebyzach.github.io/pace/</a>   进度条动画网站<br>763行 进度条动画修改</p><p>&#x2F;&#x2F;background-color: $light-blue<br>1.引入外部css可修改底部等属性<br>2.在引入外部css 文件修改网站背景时，出遗留bug,在buterfly配置中需要给 641：background属性赋值</p><h2 id="一个传送点"><a href="#一个传送点" class="headerlink" title="一个传送点"></a>一个传送点</h2><p>在设置首页title打字效果描述时，需要 sub:<br>        - Even 2d otakus want to save the world<br>而不是 sub: Even 2d otakus want to save the world<br>注意 - 符号</p><p>导航栏闪烁问题尚未解决</p><p>成功！！！！<br>受不了了<br>！！！！<br>npm install –save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</p><p>10月五号晚 不小心删除配置文件，利用远古blog-demo复制粘贴复刻成功，底部栏颜色有待解决</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;测试一下&quot;&gt;&lt;a href=&quot;#测试一下&quot; class=&quot;headerlink&quot; title=&quot;测试一下&quot;&gt;&lt;/a&gt;测试一下&lt;/h2&gt;&lt;p&gt;###的&lt;/p&gt;
-&lt;p&gt;在上传时使用http协议失败，暂未解决 但采用ssh方式部署成功&lt;/p&gt;
-&lt;h2 id=&quot;Live2</summary>
+    <summary type="html">&lt;h1 id=&quot;测试一下&quot;&gt;&lt;a href=&quot;#测试一下&quot; class=&quot;headerlink&quot; title=&quot;测试一下&quot;&gt;&lt;/a&gt;测试一下&lt;/h1&gt;&lt;h3 id=&quot;的&quot;&gt;&lt;a href=&quot;#的&quot; class=&quot;headerlink&quot; title=&quot;的&quot;&gt;&lt;/a&gt;的&lt;/h3&gt;&lt;p</summary>
       
     
     
@@ -40,8 +38,8 @@
   
   <entry>
     <title>flag01</title>
-    <link href="http://example.com/2023/10/05/flag01/"/>
-    <id>http://example.com/2023/10/05/flag01/</id>
+    <link href="https://inglingq.gitee.io/2023/10/05/flag01/"/>
+    <id>https://inglingq.gitee.io/2023/10/05/flag01/</id>
     <published>2023-10-05T12:24:41.000Z</published>
     <updated>2023-10-05T12:25:21.085Z</updated>
     
@@ -60,8 +58,8 @@
   
   <entry>
     <title>test01</title>
-    <link href="http://example.com/2023/10/05/test01/"/>
-    <id>http://example.com/2023/10/05/test01/</id>
+    <link href="https://inglingq.gitee.io/2023/10/05/test01/"/>
+    <id>https://inglingq.gitee.io/2023/10/05/test01/</id>
     <published>2023-10-05T03:10:31.000Z</published>
     <updated>2023-10-05T08:43:49.958Z</updated>
     
@@ -83,8 +81,8 @@
   
   <entry>
     <title>report</title>
-    <link href="http://example.com/2023/10/04/report/"/>
-    <id>http://example.com/2023/10/04/report/</id>
+    <link href="https://inglingq.gitee.io/2023/10/04/report/"/>
+    <id>https://inglingq.gitee.io/2023/10/04/report/</id>
     <published>2023-10-04T11:19:28.000Z</published>
     <updated>2023-10-05T03:36:26.673Z</updated>
     
@@ -100,8 +98,8 @@
   
   <entry>
     <title>demo</title>
-    <link href="http://example.com/2023/10/04/demo/"/>
-    <id>http://example.com/2023/10/04/demo/</id>
+    <link href="https://inglingq.gitee.io/2023/10/04/demo/"/>
+    <id>https://inglingq.gitee.io/2023/10/04/demo/</id>
     <published>2023-10-04T00:11:17.000Z</published>
     <updated>2023-10-04T12:51:00.712Z</updated>
     
@@ -121,18 +119,18 @@
   
   <entry>
     <title>Demo test</title>
-    <link href="http://example.com/2023/10/02/demo02/"/>
-    <id>http://example.com/2023/10/02/demo02/</id>
+    <link href="https://inglingq.gitee.io/2023/10/02/demo02/"/>
+    <id>https://inglingq.gitee.io/2023/10/02/demo02/</id>
     <published>2023-10-02T02:53:44.000Z</published>
     <updated>2023-10-04T01:54:28.015Z</updated>
     
     
     
     
-    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://inglingq.gitee.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://inglingq.gitee.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
