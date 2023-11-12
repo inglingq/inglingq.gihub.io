@@ -34,12 +34,12 @@
     <link href="https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/"/>
     <id>https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/</id>
     <published>2023-10-29T07:14:10.000Z</published>
-    <updated>2023-10-29T07:17:30.554Z</updated>
+    <updated>2023-11-12T13:05:27.032Z</updated>
     
-    <content type="html"><![CDATA[<p>1.泛型错误<br>在使用getall得到整个表信息时，接口及实现类的方法都要添加泛型</p><p>2：jdbc.pqroperties在springmvc加载，已解决<br>方法：<br>修改前：@PropertySource(“jdbc.properties”)，</p><p>修改后@PropertySource(“classpath:jdbc.properties”)<br>加入了classpath</p>]]></content>
+    <content type="html"><![CDATA[<p>1.泛型错误<br>在使用getall得到整个表信息时，接口及实现类的方法都要添加泛型</p><p>2：jdbc.pqroperties在springmvc加载，已解决<br>方法：<br>修改前：@PropertySource(“jdbc.properties”)，</p><p>修改后@PropertySource(“classpath:jdbc.properties”)<br>加入了 classpath</p>]]></content>
     
     
-    <summary type="html">ssm整合</summary>
+    <summary type="html">ssm整合的一点小细节</summary>
     
     
     
@@ -53,9 +53,9 @@
     <link href="https://inglingq.gitee.io/2023/10/29/springboot%E6%95%B4%E5%90%88ssm/"/>
     <id>https://inglingq.gitee.io/2023/10/29/springboot%E6%95%B4%E5%90%88ssm/</id>
     <published>2023-10-29T06:58:41.000Z</published>
-    <updated>2023-10-29T07:17:19.707Z</updated>
+    <updated>2023-11-12T13:06:20.249Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="1-整合配置问题"><a href="#1-整合配置问题" class="headerlink" title="1.整合配置问题"></a>1.整合配置问题</h1><p>因springBoot简化了ssm中的配置方法，故可去除相关的spring-springmvc-springmvcsupport-servletcontainIntconfig-mybatisconfig-jdbconfig等相关配置.<br>springboot内置tomcat插件，故不需要配置servlet，运行启动类即可启动。</p><p>测试时，可采用junit单元测试</p><h1 id="2-必要的异常处理方案仍需添加"><a href="#2-必要的异常处理方案仍需添加" class="headerlink" title="2.必要的异常处理方案仍需添加."></a>2.必要的异常处理方案仍需添加.</h1><p>2.1在基于Mybatis的基础上来配置相关数据库连接信息：springboot极大的简化了此过程，现在仅需在yaml文件中添加数据库的语法格式即可连接成功（ps:yaml文件配置是最常用的方法，也有其他方法）.</p><p>2.2在初始化配置时，dao层的接口无法被扫描到，故需添加相应的注解使其成为bean,使之被扫描</p><p>2.3在springboot中resource资源目录下的static文件夹下用来处理静态页面（但针对于前后端分离开发，此方法几乎不使用）.</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="1-整合配置问题"><a href="#1-整合配置问题" class="headerlink" title="1.整合配置问题"></a>1.整合配置问题</h2><p>因springBoot简化了ssm中的配置方法，故可去除相关的spring-springmvc-springmvcsupport-servletcontainIntconfig-mybatisconfig-jdbconfig等相关配置.<br>springboot内置tomcat插件，故不需要配置servlet，运行启动类即可启动。</p><p>测试时，可采用junit单元测试</p><h2 id="2-必要的异常处理方案仍需添加"><a href="#2-必要的异常处理方案仍需添加" class="headerlink" title="2.必要的异常处理方案仍需添加."></a>2.必要的异常处理方案仍需添加.</h2><p>2.1在基于Mybatis的基础上来配置相关数据库连接信息：springboot极大的简化了此过程，现在仅需在yaml文件中添加数据库的语法格式即可连接成功（ps:yaml文件配置是最常用的方法，也有其他方法）.</p><p>2.2在初始化配置时，dao层的接口无法被扫描到，故需添加相应的注解使其成为bean,使之被扫描</p><p>2.3在springboot中resource资源目录下的static文件夹下用来处理静态页面（但针对于前后端分离开发，此方法几乎不使用）.</p>]]></content>
     
     
     <summary type="html">Springboot整合ssm思路（基于ssm整合基础）</summary>
@@ -91,9 +91,9 @@
     <link href="https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/"/>
     <id>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</id>
     <published>2023-10-05T13:43:14.000Z</published>
-    <updated>2023-10-29T07:22:57.135Z</updated>
+    <updated>2023-11-12T13:06:50.257Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p>在上传时使用http协议失败，暂未解决 但采用ssh方式部署成功</p><p>source中的post文件被移除，在更改主题时<br>blog&#x2F;source中的about被移除了</p><p><a href="https://codebyzach.github.io/pace/">https://codebyzach.github.io/pace/</a>   进度条动画网站<br>763行 进度条动画修改</p><p>&#x2F;&#x2F;background-color: $light-blue<br>1.引入外部css可修改底部等属性<br>2.在引入外部css 文件修改网站背景时，出遗留bug,在buterfly配置中需要给 641：background属性赋值</p><h2 id="一个传送点"><a href="#一个传送点" class="headerlink" title="一个传送点"></a>一个传送点</h2><p>在设置首页title打字效果描述时，需要 sub:<br>        - Even 2d otakus want to save the world<br>而不是 sub: Even 2d otakus want to save the world<br>注意 - 符号</p><p>导航栏闪烁问题尚未解决</p><p>成功！！！！<br>受不了了<br>！！！！<br>npm install –save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</p><p>10月五号晚 不小心删除配置文件，利用远古blog-demo复制粘贴复刻成功</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><p>在上传时使用http协议失败，暂未解决 但采用ssh方式部署成功</p><p>source中的post文件被移除，在更改主题时<br>blog&#x2F;source中的about被移除了</p><p><a href="https://codebyzach.github.io/pace/">https://codebyzach.github.io/pace/</a>   进度条动画网站<br>763行 进度条动画修改</p><p>&#x2F;&#x2F;background-color: $light-blue<br>1.引入外部css可修改底部等属性<br>2.在引入外部css 文件修改网站背景时，出遗留bug,在buterfly配置中需要给 641：background属性赋值</p><h2 id="一个传送点"><a href="#一个传送点" class="headerlink" title="一个传送点"></a>一个传送点</h2><p>在设置首页title打字效果描述时，需要 sub:<br>        - Even 2d otakus want to save the world<br>而不是 sub: Even 2d otakus want to save the world<br>注意 - 符号</p><p>导航栏闪烁问题尚未解决</p><p>成功！！！！<br>受不了了<br>！！！！<br><code>npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</code></p><p>10月五号晚 不小心删除配置文件，利用远古blog-demo复制粘贴复刻成功</p>]]></content>
     
     
     <summary type="html">hexo初始化时的bug</summary>
