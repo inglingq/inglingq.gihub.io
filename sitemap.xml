@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</loc>
+    <loc>https://inglingq.gitee.io/2023/11/19/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</loc>
     
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inglingq.gitee.io/2023/11/19/map_Mybatis/</loc>
+    
+    <lastmod>2023-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/</loc>
+    
+    <lastmod>2023-11-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,14 +31,14 @@
   <url>
     <loc>https://inglingq.gitee.io/2023/10/29/springboot%E6%95%B4%E5%90%88ssm/</loc>
     
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</loc>
     
     <lastmod>2023-11-12</lastmod>
     
@@ -85,7 +103,7 @@
 
   <url>
     <loc>https://inglingq.gitee.io/</loc>
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +111,7 @@
   
   <url>
     <loc>https://inglingq.gitee.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,21 +120,21 @@
   
   <url>
     <loc>https://inglingq.gitee.io/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inglingq.gitee.io/categories/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/</loc>
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://inglingq.gitee.io/categories/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2023-11-12</lastmod>
+    <lastmod>2023-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
