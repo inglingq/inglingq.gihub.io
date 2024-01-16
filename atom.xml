@@ -6,7 +6,7 @@
   <link href="https://inglingq.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://inglingq.gitee.io/"/>
-  <updated>2024-01-16T04:24:23.490Z</updated>
+  <updated>2024-01-16T09:53:05.027Z</updated>
   <id>https://inglingq.gitee.io/</id>
   
   <author>
@@ -18,27 +18,27 @@
   
   <entry>
     <title>如何优雅地使用Chatgpt</title>
-    <link href="https://inglingq.gitee.io/2024/01/16/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/"/>
-    <id>https://inglingq.gitee.io/2024/01/16/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/</id>
+    <link href="https://inglingq.gitee.io/2024/01/16/AI/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/"/>
+    <id>https://inglingq.gitee.io/2024/01/16/AI/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/</id>
     <published>2024-01-16T04:18:10.000Z</published>
-    <updated>2024-01-16T04:24:23.490Z</updated>
+    <updated>2024-01-16T09:53:05.027Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="如何优雅地使用Chatgpt"><a href="#如何优雅地使用Chatgpt" class="headerlink" title="如何优雅地使用Chatgpt"></a>如何优雅地使用Chatgpt</h4><p>Chatgpt 强不强大在于你会不会问，问的好则是人工智能问不好则是人工智障 </p><p>本文根据b站某博主的教程做了详细使用方法</p><p><strong>法一：</strong></p><p>背景  + 指令词 + 输入 + 输出要求</p><ul><li>举例说明：</li></ul><p> 我是一名二十岁的亚洲男性，素食者，希望在二十天内减轻20斤，给我运动方案 饮食计划 睡眠建议，以天为单位，以表格形式展现</p><ul><li>例句分析</li></ul><table><thead><tr><th>背景</th><th>我是一名二十岁的亚洲男性，素食者</th></tr></thead><tbody><tr><td>指令词</td><td>希望在二十天内增重20斤</td></tr><tr><td>输入</td><td>给我运动方案 饮食计划 睡眠建议</td></tr><tr><td>输出要求</td><td>以天为单位，以表格形式展现</td></tr></tbody></table><p><strong>法二（进阶使用）：</strong></p><p>采用prompt公式：</p><p> 指令词 + 背景 + 输入 + 输出要求</p><p>以下为使用模板，直接粘贴复制即可</p><p>ChatGPT 超级 Prompt</p><p>我想让你成为我的Prompt创作者。你的目标是帮助我创建最佳的Prompt，这个Prompt 将由你ChatGPT 使用。你将遵循以下过程：<br>1.首先，你会问我Prompt是关于什么的。我会告诉你，但我们需要通过不断的重复来改进它，通过则进行下一步。<br>2.根据我的输入，你会创建三个部分:<br>    a）修订后的Prompt（你编写修订后的Prompt，应该清晰、精确、易于理解）<br>    b）建议（你提出建议，哪些细节应该包含在Prompt中，以使其更好)<br>    c）问题（你提出相关问题，询问我需要哪些额外信息来改进Prompt)</p><p>3.你提供的Prompt应该采用我发出请求的形式，由ChatGPT执行。</p><p>4.我们将继续这个迭代过程，我会提供更多信息，你会更新“修订后的Prompt”部分的请求，直到它完整为止</p><p>法三：</p>]]></content>
-    
-    
-    <summary type="html">人工智障 ？</summary>
+    <content type="html"><![CDATA[<h3 id="如何优雅地使用Chatgpt"><a href="#如何优雅地使用Chatgpt" class="headerlink" title="如何优雅地使用Chatgpt"></a>如何优雅地使用Chatgpt</h3><p>Chatgpt 强不强大在于你会不会问，问的好则是人工智能问不好则是人工智障 </p><p>本文根据b站大陈聊AI博主的教程，进行了实机验证并总结了使用方法</p><h4 id="1-利用AI优化问题"><a href="#1-利用AI优化问题" class="headerlink" title="1.利用AI优化问题"></a>1.利用AI优化问题</h4><p>主要用于规划：例如学习计划等</p><p><strong>法一：</strong></p><p>背景  + 指令词 + 输入 + 输出要求</p><ul><li>举例说明：</li></ul><p> 我是一名二十岁的亚洲男性，素食者，希望在二十天内增重20斤，给我运动方案 饮食计划 睡眠建议，以天为单位，以表格形式展现</p><ul><li>例句分析</li></ul><table><thead><tr><th>背景</th><th>我是一名二十岁的亚洲男性，素食者</th></tr></thead><tbody><tr><td>指令词</td><td>希望在二十天内增重20斤</td></tr><tr><td>输入</td><td>给我运动方案 饮食计划 睡眠建议</td></tr><tr><td>输出要求</td><td>以天为单位，以表格形式展现</td></tr></tbody></table><p><strong>法二（进阶使用）：</strong></p><p>为你<strong>寻找最佳prompt</strong></p><p>采用prompt公式：</p><p> 指令词 + 背景 + 输入 + 输出要求</p><ul><li><p>运用此公式描述出prompt风格的问题，能让chatGpt更好的解决你的问题</p></li><li><p>有时候我们并不是一个好的提问者，但我们可以采用一种方式让ChatGpt迭代你提出的问题，进而产生优质的问题，再利用ChatGpt迭代出的问题反问ChatGpt 即可得到一个全面的结果（优化问题，并回答问题 这才是Ai）</p></li><li><p>以下为使用方式模板，直接粘贴复制即可:</p><p>ChatGPT 超级 Prompt</p><p>我想让你成为我的Prompt创作者。你的目标是帮助我创建最佳的Prompt，这个Prompt 将由你ChatGPT 使用。你将遵循以下过程：<br>1.首先，你会问我Prompt是关于什么的。我会告诉你，但我们需要通过不断的重复来改进它，通过则进行下一步。<br>2.根据我的输入，你会创建三个部分:<br>a）修订后的Prompt（你编写修订后的Prompt，应该清晰、精确、易于理解）<br>b）建议（你提出建议，哪些细节应该包含在Prompt中，以使其更好)<br>c）问题（你提出相关问题，询问我需要哪些额外信息来改进Prompt)<br>3.你提供的Prompt应该采用我发出请求的形式，由ChatGPT执行。</p><p>4.我们将继续这个迭代过程，我会提供更多信息，你会更新“修订后的Prompt”部分的请求，直到它完整为止</p></li></ul><p><strong>法三（与法二plus版）：</strong></p><p><strong>利用prompt寻找最佳解决方案</strong></p><ul><li><p>模板：</p><p>你需要应用<strong>连续问题解决系统</strong>（CPSS）来通过不断重复寻找我的问题，并通过深度解析后提供解决方案。<br>CPSS的工作原理如下：<br>1.你将采用六个步骤的问题解决过程来评估我的初始问题：1）确定问题2）定义目标3）生成解决方案（最多3个）4)评估并选择解决方案5）实施解决方案6）下一个问题<br>2.在“生成解决方案”的步骤中，应列出最多3个解决方案；在“评估和选择解决方案”的步骤中，应提供精确和具体的解决方案。在“实施解决方案”的步骤中，应提供所选解决方案付诸实施的具体方法。<br>3.”下一个问题”部分应包含你可以向我提出的最重要的问题，以获取进一步的信息，这些信息对于问题解决过程的继续非常重要。每个问题的数量最多为3个。<br>4.你的回答应该简洁明了，使用Markdown格式撰写，其中每个步骤的名称以粗体显示，并且所有文字包括标签的字体大小应具有一致性。<br>5.在你回答了我的第一个问题之后，CPSS过程的下一个迭代开始。<br>6.系统将整合我的最后一个回答，并通过每个迭代逐渐提供更加深入的回答，你可以通过向我提出新的问题来引导它。<br>你的第一个回答应该只是一个问候，提醒对方你是一个连续问题解决系统（CPSS）。不要在第一个回答中开始CPSS运程，你的第一个回答只包括问候和要求提出的要解决的问题。之后，我会为你提供信息，请在你的下一个回答中开始CPSS过程。</p></li></ul><p><strong>等ai问答完毕后，即可要求它进行总结</strong></p><h4 id="2-多角度AI"><a href="#2-多角度AI" class="headerlink" title="2.多角度AI"></a>2.多角度AI</h4><p>可用于方案文档设计</p><p>我们可以让chatgpt<strong>模拟成几个人互相探讨</strong>，以进行多角度方面分析，让ai迭代出更好的结果</p><p>举例说明：</p><p>今日主题：“2030年未来城市概念汽车设计研讨”<br>设计团队由以下三个角色组成：<br>概念设计师：负责提供汽车的核心设计概念和方向。<br>视觉工程师：负责基于概念设计的具体可视化，使用Dall-E3创建汽车的初步设计图功能策略师：专注于汽车的功能性和适应未来城市的特性，提供反馈以优化设计。研讨流程如下:<br>[概念设计师]提出一个针对2030年未来城市的核心汽车设计概念。<br>[视觉工程师】基于该概念进行具体的视觉化设计，每轮讨论使用Dall-E3生成出汽车设计图<br>[功能策略师]根据未来城市的特性评估汽车的功能性，并提供优化建议。<br>三者共同讨论，并对汽车设计进行迭代优化。每人发言时，需先列出角色身份，例如[概念设计师]以上讨论步骤，至少重复5轮，全部由ChatGPT自我沟通讨论完成，无需人工介入，中途不需要询问我的建议，直至达到一个既美观又实用的概念设计</p><h4 id="3-六大经典prompt"><a href="#3-六大经典prompt" class="headerlink" title="3.六大经典prompt"></a>3.六大经典prompt</h4><p>可用日常问题的解决</p><p><strong>1.多角度（Multiple Angles)</strong></p><p>公式：请用多个角度来思考[主题内容]。（从[角度1]、[角度2]、[角度3]…多个角度来思考)<br>示例：</p><ul><li>请用多个角度来分析这家公司的商业报告。（从市场趋势、竞对分析、战略规划、财务状况和市场前景等多个角度来思考)</li><li>请用多个角度来分析人工智能行业。（从就业市场、教育、社会结构等多个角度来思考)</li><li>请用多个角度来思考良好睡眠的重要性。（从免疫系统、皮肤健康、心理健康等多个角度来思考)</li></ul><p><strong>2.总结（Summarize)</strong></p><p>公式：基于[主题内容]中的主要观点，请给出[格式]。<br>示例:</p><ul><li>基于《被讨厌的勇气》这本书，请给出300字的简要梗概</li><li>基于这篇新闻报道，请给出5个要点</li><li>基于《健康饮食习惯》这篇文章，请总结出7条建议</li></ul><p><strong>3.个性（Personality)</strong></p><p>公式：请以[参考对象或风格]的方式，为我撰写「话题」内容。<br>示例:</p><ul><li>请以幽默的方式，为我写一篇观后感</li><li>请以张爱玲的风格，为我撰写一篇关于爱情的博文</li><li>请以李白的风格，为我写一首豪放不羁的诗歌</li></ul><p><strong>4.示例询问（Example Inquiry</strong>)</p><p>公式：请按照以下格式，给出[主题内容]的信息。[示例格式]<br>示例：<br>请按以下格式为我列出《三国演义》、《红楼梦》，《西游记》的信息<br>【作品名称】水浒传<br>【作者】施耐庵、罗贯中<br>【创作年代】元末明初<br>【文学体裁】章回体小说<br>【字数】1040000（一百回本）</p><p><strong>5.能力与角色（Capacity and Role)</strong><br>公式：你是具有[主题]专业知识的[角色]。请提供关于[主题]的[格式]。<br>示例：</p><ul><li>你是具有商业建筑设计专业知识的建筑师，请提供关于商业建筑规划和设计的应用，如商场、办公楼和酒店等的设计与布局。</li><li>你是一位专注于健康饮食的营养师，请提供一份适合亚洲青年人的关于平衡膳食计划的信息表</li><li>你是一位创业投资方面的理财顾问，请提供一份关于企业融资、创业投资战略方面的学习教程</li></ul><p><strong>6.分隔符（Separator)</strong><br>三重引号括起来的内容，‘’‘ ’‘<br>用<article>标记分隔的内容，[需求指示]<br>示例:<br>①三重引号</p><p>‘’‘ 内容部分…. ’‘’</p><p>②XML标签<article></article></p><article>内容部分...</article>]]></content>
     
     
+    <summary type="html">人工智能？人工智障 ？</summary>
     
-    <category term="随笔" scheme="https://inglingq.gitee.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="AI" scheme="https://inglingq.gitee.io/categories/AI/"/>
     
     
   </entry>
   
   <entry>
     <title>单例模式</title>
-    <link href="https://inglingq.gitee.io/2023/12/26/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://inglingq.gitee.io/2023/12/26/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</id>
+    <link href="https://inglingq.gitee.io/2023/12/26/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://inglingq.gitee.io/2023/12/26/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</id>
     <published>2023-12-26T13:52:11.000Z</published>
     <updated>2023-12-26T13:55:18.962Z</updated>
     
@@ -56,8 +56,8 @@
   
   <entry>
     <title>static关键字</title>
-    <link href="https://inglingq.gitee.io/2023/12/22/static%E5%85%B3%E9%94%AE%E5%AD%97/"/>
-    <id>https://inglingq.gitee.io/2023/12/22/static%E5%85%B3%E9%94%AE%E5%AD%97/</id>
+    <link href="https://inglingq.gitee.io/2023/12/22/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/static%E5%85%B3%E9%94%AE%E5%AD%97/"/>
+    <id>https://inglingq.gitee.io/2023/12/22/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/static%E5%85%B3%E9%94%AE%E5%AD%97/</id>
     <published>2023-12-22T13:14:10.000Z</published>
     <updated>2023-12-22T13:32:10.751Z</updated>
     
@@ -75,8 +75,8 @@
   
   <entry>
     <title>Andriod基础笔记</title>
-    <link href="https://inglingq.gitee.io/2023/12/03/%E7%AC%94%E8%AE%B0/"/>
-    <id>https://inglingq.gitee.io/2023/12/03/%E7%AC%94%E8%AE%B0/</id>
+    <link href="https://inglingq.gitee.io/2023/12/03/Android/%E7%AC%94%E8%AE%B0/"/>
+    <id>https://inglingq.gitee.io/2023/12/03/Android/%E7%AC%94%E8%AE%B0/</id>
     <published>2023-12-03T03:14:10.000Z</published>
     <updated>2023-12-03T02:56:46.097Z</updated>
     
@@ -94,8 +94,8 @@
   
   <entry>
     <title>Map_Mybaits</title>
-    <link href="https://inglingq.gitee.io/2023/11/19/map_Mybatis/"/>
-    <id>https://inglingq.gitee.io/2023/11/19/map_Mybatis/</id>
+    <link href="https://inglingq.gitee.io/2023/11/19/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/map_Mybatis/"/>
+    <id>https://inglingq.gitee.io/2023/11/19/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/map_Mybatis/</id>
     <published>2023-11-19T03:16:10.000Z</published>
     <updated>2023-11-19T03:28:53.722Z</updated>
     
@@ -113,8 +113,8 @@
   
   <entry>
     <title>Mybatis逆向工程</title>
-    <link href="https://inglingq.gitee.io/2023/11/19/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
-    <id>https://inglingq.gitee.io/2023/11/19/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</id>
+    <link href="https://inglingq.gitee.io/2023/11/19/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/"/>
+    <id>https://inglingq.gitee.io/2023/11/19/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</id>
     <published>2023-11-19T03:14:10.000Z</published>
     <updated>2023-12-22T13:31:55.571Z</updated>
     
@@ -145,8 +145,8 @@
   
   <entry>
     <title>ssm整合</title>
-    <link href="https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/"/>
-    <id>https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/</id>
+    <link href="https://inglingq.gitee.io/2023/10/29/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/ssm%E6%95%B4%E5%90%88/"/>
+    <id>https://inglingq.gitee.io/2023/10/29/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/ssm%E6%95%B4%E5%90%88/</id>
     <published>2023-10-29T07:14:10.000Z</published>
     <updated>2023-11-19T03:24:41.599Z</updated>
     
@@ -164,8 +164,8 @@
   
   <entry>
     <title>springboot整合ssm</title>
-    <link href="https://inglingq.gitee.io/2023/10/29/springboot%E6%95%B4%E5%90%88ssm/"/>
-    <id>https://inglingq.gitee.io/2023/10/29/springboot%E6%95%B4%E5%90%88ssm/</id>
+    <link href="https://inglingq.gitee.io/2023/10/29/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/springboot%E6%95%B4%E5%90%88ssm/"/>
+    <id>https://inglingq.gitee.io/2023/10/29/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/springboot%E6%95%B4%E5%90%88ssm/</id>
     <published>2023-10-29T06:58:41.000Z</published>
     <updated>2023-11-19T03:10:57.172Z</updated>
     
@@ -183,8 +183,8 @@
   
   <entry>
     <title>gitee-butterfly</title>
-    <link href="https://inglingq.gitee.io/2023/10/29/gitee-butterfly/"/>
-    <id>https://inglingq.gitee.io/2023/10/29/gitee-butterfly/</id>
+    <link href="https://inglingq.gitee.io/2023/10/29/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/gitee-butterfly/"/>
+    <id>https://inglingq.gitee.io/2023/10/29/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/gitee-butterfly/</id>
     <published>2023-10-29T06:55:02.000Z</published>
     <updated>2023-10-29T07:18:05.775Z</updated>
     
@@ -202,8 +202,8 @@
   
   <entry>
     <title>散点</title>
-    <link href="https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/"/>
-    <id>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</id>
+    <link href="https://inglingq.gitee.io/2023/10/05/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/%E6%95%A3%E7%82%B9/"/>
+    <id>https://inglingq.gitee.io/2023/10/05/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/%E6%95%A3%E7%82%B9/</id>
     <published>2023-10-05T13:43:14.000Z</published>
     <updated>2023-11-12T13:06:50.257Z</updated>
     

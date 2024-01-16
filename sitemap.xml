@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://inglingq.gitee.io/2024/01/16/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/</loc>
+    <loc>https://inglingq.gitee.io/2024/01/16/AI/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/</loc>
     
     <lastmod>2024-01-16</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/12/26/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</loc>
+    <loc>https://inglingq.gitee.io/2023/12/26/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</loc>
     
     <lastmod>2023-12-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/12/22/static%E5%85%B3%E9%94%AE%E5%AD%97/</loc>
+    <loc>https://inglingq.gitee.io/2023/12/22/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/static%E5%85%B3%E9%94%AE%E5%AD%97/</loc>
     
     <lastmod>2023-12-22</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/11/19/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</loc>
+    <loc>https://inglingq.gitee.io/2023/11/19/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/Mybatis%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B/</loc>
     
     <lastmod>2023-12-22</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/12/03/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://inglingq.gitee.io/2023/12/03/Android/%E7%AC%94%E8%AE%B0/</loc>
     
     <lastmod>2023-12-03</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/11/19/map_Mybatis/</loc>
+    <loc>https://inglingq.gitee.io/2023/11/19/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/map_Mybatis/</loc>
     
     <lastmod>2023-11-19</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/29/ssm%E6%95%B4%E5%90%88/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/29/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/ssm%E6%95%B4%E5%90%88/</loc>
     
     <lastmod>2023-11-19</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/29/springboot%E6%95%B4%E5%90%88ssm/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/29/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/springboot%E6%95%B4%E5%90%88ssm/</loc>
     
     <lastmod>2023-11-19</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/05/%E6%95%A3%E7%82%B9/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/05/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/%E6%95%A3%E7%82%B9/</loc>
     
     <lastmod>2023-11-12</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/29/gitee-butterfly/</loc>
+    <loc>https://inglingq.gitee.io/2023/10/29/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/gitee-butterfly/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -162,6 +162,20 @@
   </url>
   
   <url>
+    <loc>https://inglingq.gitee.io/categories/AI/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://inglingq.gitee.io/categories/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2024-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://inglingq.gitee.io/categories/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,13 +184,6 @@
   
   <url>
     <loc>https://inglingq.gitee.io/categories/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/</loc>
-    <lastmod>2024-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://inglingq.gitee.io/categories/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2024-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
