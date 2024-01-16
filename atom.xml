@@ -6,7 +6,7 @@
   <link href="https://inglingq.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://inglingq.gitee.io/"/>
-  <updated>2023-12-26T13:55:18.962Z</updated>
+  <updated>2024-01-16T04:24:23.490Z</updated>
   <id>https://inglingq.gitee.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何优雅地使用Chatgpt</title>
+    <link href="https://inglingq.gitee.io/2024/01/16/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/"/>
+    <id>https://inglingq.gitee.io/2024/01/16/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/</id>
+    <published>2024-01-16T04:18:10.000Z</published>
+    <updated>2024-01-16T04:24:23.490Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="如何优雅地使用Chatgpt"><a href="#如何优雅地使用Chatgpt" class="headerlink" title="如何优雅地使用Chatgpt"></a>如何优雅地使用Chatgpt</h4><p>Chatgpt 强不强大在于你会不会问，问的好则是人工智能问不好则是人工智障 </p><p>本文根据b站某博主的教程做了详细使用方法</p><p><strong>法一：</strong></p><p>背景  + 指令词 + 输入 + 输出要求</p><ul><li>举例说明：</li></ul><p> 我是一名二十岁的亚洲男性，素食者，希望在二十天内减轻20斤，给我运动方案 饮食计划 睡眠建议，以天为单位，以表格形式展现</p><ul><li>例句分析</li></ul><table><thead><tr><th>背景</th><th>我是一名二十岁的亚洲男性，素食者</th></tr></thead><tbody><tr><td>指令词</td><td>希望在二十天内增重20斤</td></tr><tr><td>输入</td><td>给我运动方案 饮食计划 睡眠建议</td></tr><tr><td>输出要求</td><td>以天为单位，以表格形式展现</td></tr></tbody></table><p><strong>法二（进阶使用）：</strong></p><p>采用prompt公式：</p><p> 指令词 + 背景 + 输入 + 输出要求</p><p>以下为使用模板，直接粘贴复制即可</p><p>ChatGPT 超级 Prompt</p><p>我想让你成为我的Prompt创作者。你的目标是帮助我创建最佳的Prompt，这个Prompt 将由你ChatGPT 使用。你将遵循以下过程：<br>1.首先，你会问我Prompt是关于什么的。我会告诉你，但我们需要通过不断的重复来改进它，通过则进行下一步。<br>2.根据我的输入，你会创建三个部分:<br>    a）修订后的Prompt（你编写修订后的Prompt，应该清晰、精确、易于理解）<br>    b）建议（你提出建议，哪些细节应该包含在Prompt中，以使其更好)<br>    c）问题（你提出相关问题，询问我需要哪些额外信息来改进Prompt)</p><p>3.你提供的Prompt应该采用我发出请求的形式，由ChatGPT执行。</p><p>4.我们将继续这个迭代过程，我会提供更多信息，你会更新“修订后的Prompt”部分的请求，直到它完整为止</p><p>法三：</p>]]></content>
+    
+    
+    <summary type="html">人工智障 ？</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://inglingq.gitee.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>单例模式</title>
