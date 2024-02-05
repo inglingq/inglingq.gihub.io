@@ -1,3 +1,5 @@
+https://inglingq.gitee.io/2024/02/05/butterfly%E7%BE%8E%E5%8C%96/Butterfly%20%E7%BE%8E%E5%8C%96/
+https://inglingq.gitee.io/2023/10/29/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/gitee-butterfly/
 https://inglingq.gitee.io/2024/01/16/AI/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E5%9C%B0%E4%BD%BF%E7%94%A8Chatgpt/
 https://inglingq.gitee.io/2023/12/26/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/
 https://inglingq.gitee.io/2023/12/22/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/static%E5%85%B3%E9%94%AE%E5%AD%97/
@@ -10,13 +12,13 @@ https://inglingq.gitee.io/2023/10/05/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/%E6%95%A3%E
 https://inglingq.gitee.io/2023/10/29/test/
 https://inglingq.gitee.io/ramblings/index.html
 https://inglingq.gitee.io/2023/10/02/demo02/
-https://inglingq.gitee.io/2023/10/29/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/gitee-butterfly/
 https://inglingq.gitee.io/categories/index.html
 https://inglingq.gitee.io/tags/index.html
 https://inglingq.gitee.io/
 https://inglingq.gitee.io/tags/%E9%9A%8F%E7%AC%94/
-https://inglingq.gitee.io/categories/AI/
-https://inglingq.gitee.io/categories/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
 https://inglingq.gitee.io/categories/%E9%9A%8F%E7%AC%94/
-https://inglingq.gitee.io/categories/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/
+https://inglingq.gitee.io/categories/AI/
 https://inglingq.gitee.io/categories/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/
+https://inglingq.gitee.io/categories/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+https://inglingq.gitee.io/categories/Butterfly%E7%BE%8E%E5%8C%96/
+https://inglingq.gitee.io/categories/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/
