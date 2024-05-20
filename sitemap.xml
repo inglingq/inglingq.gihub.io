@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://inglingq.gitee.io/2023/10/02/demo02/</loc>
+    
+    <lastmod>2024-05-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://inglingq.gitee.io/2023/12/22/java%E5%9F%BA%E7%A1%80/static%E5%85%B3%E9%94%AE%E5%AD%97/</loc>
     
     <lastmod>2024-02-18</lastmod>
@@ -128,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://inglingq.gitee.io/2023/10/02/demo02/</loc>
-    
-    <lastmod>2023-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://inglingq.gitee.io/categories/index.html</loc>
     
     <lastmod>2023-10-03</lastmod>
@@ -201,6 +201,13 @@
   </url>
   
   <url>
+    <loc>https://inglingq.gitee.io/categories/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/</loc>
+    <lastmod>2024-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://inglingq.gitee.io/categories/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -209,13 +216,6 @@
   
   <url>
     <loc>https://inglingq.gitee.io/categories/%E5%90%8E%E7%AB%AF%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2024-05-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://inglingq.gitee.io/categories/hexo%E9%85%8D%E7%BD%AE%E9%9B%86/</loc>
     <lastmod>2024-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
